@@ -1,0 +1,5 @@
+	* Variables: Son donde guardamos algún valor que vayamos a usar
+	* Strings:  Son textos de cualquier tipo: palabras, frases, numeros...
+	* Funciones (argumentos, `return`): Son objetos con alguna acción que queremos hacer y/o repetir. Pueden llevar argumentos que son los elementos que van a ser parte de esa acción. Return es lo que nos devuelve esa función que hicimos y la finaliza. 
+	* Declaraciones `if`: Son para decirle a las funciones que hagan alguna acción si pasa una cosa, y otra acción si pasa otra.
+	* Valores booleanos (`true`, `false`): Son valores que expresan si algo que declaramos es verdadero o falso. Solo tienen esas dos opciones.
