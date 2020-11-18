@@ -1,0 +1,4 @@
+for: El bucle for sirve para ejecutar un mismo código muchas veces con diferentes valores.
+&&: Esta expresión sirve para que si o si se tengan que cumplir dos o más condiciones para que devuelva true.
+||: Esta expresión sirve para que si o si se tenga que cumplir alguna de las condiciones para que devuelva true.
+!: Esta expresión sirve para devolver el opuesto de lo que suceda.
