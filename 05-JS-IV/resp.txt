@@ -1,0 +1,5 @@
+Objetos: Son conjuntos de propiedades
+Propiedades: Son items que contienen un nombre y un valor
+Métodos: Son funciones dentro de un objeto
+Bucle for in: Sirven para pasar por todas las propiedades de un objeto
+Notación de puntos vs corchetes: Son dos formas de acceder a los valores de las propiedades de un objeto. La de puntos es más fácil de hacer y la de corchetes permite más variantes.
