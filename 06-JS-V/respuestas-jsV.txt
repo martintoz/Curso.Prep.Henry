@@ -1,0 +1,2 @@
+prototype: Los prototipos sirven para almacenar una sola vez un método que se usará muchas veces
+constructors: los constructores sirven para crear muchos objetos que tienen algunas características en común
