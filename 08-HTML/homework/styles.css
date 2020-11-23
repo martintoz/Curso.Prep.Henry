@@ -1,0 +1,26 @@
+		body{
+			background-image: url("https://i.pinimg.com/originals/7c/d3/d6/7cd3d69cbc96f146a38b7e7698c53af9.jpg");
+						display: -webkit-flex;
+			display:         flex;
+			flex-direction: column;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+		}
+		h1 {
+			color:blue;}
+		img {
+			width:400px;}
+		#thirdDiv{
+
+			width:500px;
+			height: 600px;
+			background-color: red;
+			padding: 50px;
+			border: 10px solid green;
+		}
+		#spanId{
+			font-size: 18px;
+			margin: 50px;
+		}
